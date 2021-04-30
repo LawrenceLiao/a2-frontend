@@ -1,0 +1,23 @@
+.remember {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.login_form {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  min-width: 300px;
+  margin-top: 20px;
+}
+
+.link {
+  color: #002649;
+  text-decoration: underline;
+}
+
+.errorMessage {
+  color: red;
+  float: left;
+}
+
